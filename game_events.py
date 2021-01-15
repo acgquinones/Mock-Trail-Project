@@ -1,5 +1,5 @@
 """                                                                                                                               
-File:    proj1.py                                                                                                                 
+File:    game_events.py                                                                                                                 
 Author:  Eric Hamilton                                                                                                     
 Date:    4/6/20                                                                                                                                                                                                                       
 Description:                                                                                                                      
