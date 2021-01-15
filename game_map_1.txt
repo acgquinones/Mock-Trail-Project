@@ -1,0 +1,30 @@
+The Dorms
+	Public Policy, 50
+	Physics Building, 100
+	The Commons, 120
+Public Policy
+	Physics Building, 50
+	The Commons, 60
+Physics Building
+	The Commons, 30
+	The Quad, 70
+The Commons
+	The Quad, 15
+	Biology Building, 20
+The Quad
+	Biology Building, 35
+	Math Psych Building, 50
+Biology Building
+	Math Psych Building, 75
+	University Center, 125
+Math Psych Building
+	The Stairs by Sherman, 50
+	University Center, 35
+University Center
+	Engineering Building, 75
+	The Stairs by Sherman, 25
+Engineering Building
+	ITE, 30
+The Stairs by Sherman
+	ITE, 50
+ITE
