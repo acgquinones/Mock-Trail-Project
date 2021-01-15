@@ -1,3 +1,10 @@
+"""
+File: game_map_1.txt
+Author: Eric Hamilton
+Description:
+game map
+"""
+
 The Dorms
 	Public Policy, 50
 	Physics Building, 100
