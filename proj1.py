@@ -2,8 +2,6 @@
 File:    proj1.py
 Author:  Ara Carmel Quinones
 Date:    4/6/20
-Section: 35
-E-mail:  aquinon1@umbc.edu
 Description:
   The task for this project is to write a UMBC trail program that mimics some functionality from Oregon Trail.
 """
