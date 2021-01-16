@@ -3,7 +3,7 @@ File:    game_events.py
 Author:  Eric Hamilton                                                                                                     
 Date:    4/6/20                                                                                                                                                                                                                       
 Description:                                                                                                                      
-  The task for this project is to write a UMBC trail program that mimics some functionality from Oregon Trail.   
+  Game events   
 """
 
 The Commons, A sorority selling donuts, You charm them with your witty banter and run away., You get cornered and buy 10 boxes., 5, 1, 30
